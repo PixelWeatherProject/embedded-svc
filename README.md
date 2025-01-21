@@ -1,3 +1,13 @@
+<hr>
+
+### Fork information
+This fork is a modified version of the official `embedded-svc` implementation optimized for PixelWeatherOS.
+
+This fork contains the following changes:
+1. Increased sizes of `version` and `released`, to fix esp-rs/esp-idf-svc#411
+
+<hr>
+
 # Rust APIs and abstractions for embedded services
 
 [![CI](https://github.com/esp-rs/embedded-svc/actions/workflows/ci.yml/badge.svg)](https://github.com/esp-rs/embedded-svc/actions/workflows/ci.yml)
